@@ -69,9 +69,9 @@ python visualize.py --output charts/
 
 The Power BI dashboard offers key insights into IT Management employability trends. It highlights in-demand skills, hiring patterns, salary distributions, and job market trends. Users can interact with filters to explore data by job role, experience level, and location, enabling informed decision-making for recruiters and job seekers.
 
-Check out the interactive Power BI dashboard here:
+Check out the screenshot here:
 
-[NUTRIX](https://nutrixcorp.com/)
+![image alt](https://github.com/Kavya-chava10/Employability-Analytics-in-IT-Management/blob/cfea936e299dc0a99e57d1b869460b19af0eaf2a/WhatsApp%20Image%202025-03-27%20at%209.39.49%20PM.jpeg)
 
 ## 🤝 Contributing
 
@@ -79,4 +79,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📜 License
 
-This project is licensed under the MIT License. See LICENSE for details.
+This project is licensed under the MIT License.
+
+Due to the extensive time invested in project development and privacy considerations, some PBIX files are not publicly accessible on GitHub. If anyone is interested in accessing the code, please feel free to contact us directly. Your understanding and support are greatly appreciated. Additionally, you can check out our profile at kavya.chava@slu.edu, divya.chennu@slu.edu, shruthi.chennaboina@slu.edu, siddarthareddy.gaddam@slu.edu, srilalithavinuthna.chaturvedula@slu.edu for more details. Thank you!
+
